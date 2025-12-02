@@ -1,0 +1,616 @@
+state,state_abbr,soc_code,bls_title,total_emp,annual_mean_wage,annual_median_wage
+Alabama,AL,13-1111,Management Analysts,5830,112390,98900
+Alaska,AK,13-1111,Management Analysts,380,105470,101250
+Arizona,AZ,13-1111,Management Analysts,16600,97980,82900
+Arkansas,AR,13-1111,Management Analysts,5410,77180,60920
+California,CA,13-1111,Management Analysts,110430,119370,99800
+Colorado,CO,13-1111,Management Analysts,13130,105670,94750
+Connecticut,CT,13-1111,Management Analysts,9570,115530,102960
+Delaware,DE,13-1111,Management Analysts,4440,101500,86560
+District of Columbia,DC,13-1111,Management Analysts,18570,120480,119480
+Florida,FL,13-1111,Management Analysts,68540,95920,82390
+Georgia,GA,13-1111,Management Analysts,34060,110250,101530
+Hawaii,HI,13-1111,Management Analysts,2610,91270,83780
+Idaho,ID,13-1111,Management Analysts,2820,88050,74790
+Illinois,IL,13-1111,Management Analysts,44210,121310,104610
+Indiana,IN,13-1111,Management Analysts,12140,94760,83560
+Iowa,IA,13-1111,Management Analysts,5070,91630,83490
+Kansas,KS,13-1111,Management Analysts,5300,87770,79720
+Kentucky,KY,13-1111,Management Analysts,4230,90240,82130
+Louisiana,LA,13-1111,Management Analysts,3540,104940,93870
+Maine,ME,13-1111,Management Analysts,1960,89970,77730
+Maryland,MD,13-1111,Management Analysts,21070,117360,116020
+Massachusetts,MA,13-1111,Management Analysts,30900,134350,111550
+Michigan,MI,13-1111,Management Analysts,15390,98520,84840
+Minnesota,MN,13-1111,Management Analysts,20780,102380,92310
+Mississippi,MS,13-1111,Management Analysts,3350,83720,66540
+Missouri,MO,13-1111,Management Analysts,10370,103400,83890
+Montana,MT,13-1111,Management Analysts,1130,87610,78660
+Nebraska,NE,13-1111,Management Analysts,2800,89650,79990
+Nevada,NV,13-1111,Management Analysts,3770,93930,82360
+New Hampshire,NH,13-1111,Management Analysts,2630,119500,102840
+New Jersey,NJ,13-1111,Management Analysts,19300,122840,103770
+New Mexico,NM,13-1111,Management Analysts,3090,85070,81620
+New York,NY,13-1111,Management Analysts,59640,126450,106100
+North Carolina,NC,13-1111,Management Analysts,21490,109220,100570
+North Dakota,ND,13-1111,Management Analysts,720,97190,85570
+Ohio,OH,13-1111,Management Analysts,26160,95860,84080
+Oklahoma,OK,13-1111,Management Analysts,4240,87360,82830
+Oregon,OR,13-1111,Management Analysts,10510,98710,96080
+Pennsylvania,PA,13-1111,Management Analysts,21410,98460,86790
+Rhode Island,RI,13-1111,Management Analysts,4050,114260,84990
+South Carolina,SC,13-1111,Management Analysts,9070,96820,85430
+South Dakota,SD,13-1111,Management Analysts,2870,87200,79470
+Tennessee,TN,13-1111,Management Analysts,9580,93870,83620
+Texas,TX,13-1111,Management Analysts,50900,106600,95760
+Utah,UT,13-1111,Management Analysts,5460,86780,80220
+Vermont,VT,13-1111,Management Analysts,960,125240,106680
+Virginia,VA,13-1111,Management Analysts,66840,*,*
+Washington,WA,13-1111,Management Analysts,25540,119390,108700
+West Virginia,WV,13-1111,Management Analysts,1550,93020,82830
+Wisconsin,WI,13-1111,Management Analysts,13160,109660,99630
+Wyoming,WY,13-1111,Management Analysts,530,126840,105060
+Alabama,AL,13-2031,Budget Analysts,1030,95390,94190
+Alaska,AK,13-2031,Budget Analysts,280,92660,92620
+Arizona,AZ,13-2031,Budget Analysts,960,81120,79230
+Arkansas,AR,13-2031,Budget Analysts,350,60370,54060
+California,CA,13-2031,Budget Analysts,4770,102990,99920
+Colorado,CO,13-2031,Budget Analysts,1220,92260,89810
+Connecticut,CT,13-2031,Budget Analysts,710,90930,89020
+Delaware,DE,13-2031,Budget Analysts,150,85380,80010
+District of Columbia,DC,13-2031,Budget Analysts,1680,114620,115730
+Florida,FL,13-2031,Budget Analysts,3710,84950,78310
+Georgia,GA,13-2031,Budget Analysts,1920,89310,87460
+Hawaii,HI,13-2031,Budget Analysts,250,84540,85310
+Idaho,ID,13-2031,Budget Analysts,220,75770,72340
+Illinois,IL,13-2031,Budget Analysts,870,90000,89810
+Indiana,IN,13-2031,Budget Analysts,540,81950,82840
+Iowa,IA,13-2031,Budget Analysts,470,82220,80630
+Kansas,KS,13-2031,Budget Analysts,350,81190,81520
+Kentucky,KY,13-2031,Budget Analysts,550,73220,71260
+Louisiana,LA,13-2031,Budget Analysts,400,77310,73490
+Maine,ME,13-2031,Budget Analysts,170,76440,78150
+Maryland,MD,13-2031,Budget Analysts,2440,106130,102150
+Massachusetts,MA,13-2031,Budget Analysts,1250,92950,87240
+Michigan,MI,13-2031,Budget Analysts,610,86120,88730
+Minnesota,MN,13-2031,Budget Analysts,300,92970,85110
+Mississippi,MS,13-2031,Budget Analysts,370,75560,73530
+Missouri,MO,13-2031,Budget Analysts,470,78980,74240
+Montana,MT,13-2031,Budget Analysts,300,70360,66620
+Nebraska,NE,13-2031,Budget Analysts,210,81440,80200
+Nevada,NV,13-2031,Budget Analysts,350,79160,76090
+New Hampshire,NH,13-2031,Budget Analysts,110,98420,85250
+New Jersey,NJ,13-2031,Budget Analysts,750,89470,86130
+New Mexico,NM,13-2031,Budget Analysts,630,93550,100350
+New York,NY,13-2031,Budget Analysts,2990,99780,93390
+North Carolina,NC,13-2031,Budget Analysts,1650,81210,79320
+North Dakota,ND,13-2031,Budget Analysts,70,78160,74240
+Ohio,OH,13-2031,Budget Analysts,810,88720,83970
+Oklahoma,OK,13-2031,Budget Analysts,510,74210,71410
+Oregon,OR,13-2031,Budget Analysts,880,90390,91030
+Pennsylvania,PA,13-2031,Budget Analysts,1070,84380,78500
+Rhode Island,RI,13-2031,Budget Analysts,100,90990,89380
+South Carolina,SC,13-2031,Budget Analysts,450,77860,73120
+South Dakota,SD,13-2031,Budget Analysts,120,75970,72340
+Tennessee,TN,13-2031,Budget Analysts,960,82830,79370
+Texas,TX,13-2031,Budget Analysts,3770,81760,76600
+Utah,UT,13-2031,Budget Analysts,450,88120,82830
+Vermont,VT,13-2031,Budget Analysts,40,80300,78350
+Virginia,VA,13-2031,Budget Analysts,2620,104050,102900
+Washington,WA,13-2031,Budget Analysts,1100,91740,84390
+West Virginia,WV,13-2031,Budget Analysts,200,79220,73690
+Wisconsin,WI,13-2031,Budget Analysts,1050,79990,76590
+Wyoming,WY,13-2031,Budget Analysts,90,78040,74760
+Alabama,AL,13-2041,Credit Analysts,470,90100,82860
+Alaska,AK,13-2041,Credit Analysts,30,71990,65740
+Arizona,AZ,13-2041,Credit Analysts,2630,75920,66510
+Arkansas,AR,13-2041,Credit Analysts,250,66500,60390
+California,CA,13-2041,Credit Analysts,6260,99220,81220
+Colorado,CO,13-2041,Credit Analysts,1200,101090,84640
+Connecticut,CT,13-2041,Credit Analysts,570,89500,78300
+District of Columbia,DC,13-2041,Credit Analysts,50,89180,81230
+Florida,FL,13-2041,Credit Analysts,4160,86360,76780
+Georgia,GA,13-2041,Credit Analysts,1760,82920,66150
+Hawaii,HI,13-2041,Credit Analysts,90,84110,76860
+Idaho,ID,13-2041,Credit Analysts,450,74830,69350
+Illinois,IL,13-2041,Credit Analysts,3500,99490,84680
+Indiana,IN,13-2041,Credit Analysts,760,72730,64490
+Iowa,IA,13-2041,Credit Analysts,970,94750,84200
+Kansas,KS,13-2041,Credit Analysts,590,77130,66980
+Kentucky,KY,13-2041,Credit Analysts,810,82210,74640
+Louisiana,LA,13-2041,Credit Analysts,230,67870,57170
+Maine,ME,13-2041,Credit Analysts,230,81580,76860
+Maryland,MD,13-2041,Credit Analysts,1130,93370,80280
+Massachusetts,MA,13-2041,Credit Analysts,1990,100820,85950
+Michigan,MI,13-2041,Credit Analysts,1460,76010,67460
+Minnesota,MN,13-2041,Credit Analysts,1660,81100,75980
+Mississippi,MS,13-2041,Credit Analysts,320,66290,56620
+Missouri,MO,13-2041,Credit Analysts,1190,76870,71370
+Montana,MT,13-2041,Credit Analysts,230,70220,61070
+Nebraska,NE,13-2041,Credit Analysts,530,79600,78020
+Nevada,NV,13-2041,Credit Analysts,360,82740,70830
+New Hampshire,NH,13-2041,Credit Analysts,290,85640,79420
+New Jersey,NJ,13-2041,Credit Analysts,2250,94850,79730
+New Mexico,NM,13-2041,Credit Analysts,90,84240,82490
+New York,NY,13-2041,Credit Analysts,8550,142370,129670
+North Carolina,NC,13-2041,Credit Analysts,3390,99730,89710
+North Dakota,ND,13-2041,Credit Analysts,300,88360,82050
+Ohio,OH,13-2041,Credit Analysts,3020,81830,69990
+Oklahoma,OK,13-2041,Credit Analysts,770,74100,63500
+Oregon,OR,13-2041,Credit Analysts,820,81420,75750
+Pennsylvania,PA,13-2041,Credit Analysts,2440,85230,77640
+Rhode Island,RI,13-2041,Credit Analysts,220,91240,78460
+South Carolina,SC,13-2041,Credit Analysts,900,85700,74920
+South Dakota,SD,13-2041,Credit Analysts,340,73400,64940
+Tennessee,TN,13-2041,Credit Analysts,1280,74450,63630
+Texas,TX,13-2041,Credit Analysts,7120,83470,74080
+Utah,UT,13-2041,Credit Analysts,980,70200,58950
+Vermont,VT,13-2041,Credit Analysts,80,87010,74040
+Virginia,VA,13-2041,Credit Analysts,2130,107020,98240
+Washington,WA,13-2041,Credit Analysts,1610,103770,95310
+West Virginia,WV,13-2041,Credit Analysts,130,62180,52500
+Wisconsin,WI,13-2041,Credit Analysts,1880,84130,65460
+Wyoming,WY,13-2041,Credit Analysts,100,84710,93980
+Alabama,AL,13-2051,Financial and Investment Analysts,2250,99640,84990
+Alaska,AK,13-2051,Financial and Investment Analysts,270,110580,91790
+Arizona,AZ,13-2051,Financial and Investment Analysts,6260,101630,81560
+Arkansas,AR,13-2051,Financial and Investment Analysts,1310,84690,76190
+California,CA,13-2051,Financial and Investment Analysts,35660,125220,109080
+Colorado,CO,13-2051,Financial and Investment Analysts,8460,113480,97570
+Connecticut,CT,13-2051,Financial and Investment Analysts,5610,117060,101780
+Delaware,DE,13-2051,Financial and Investment Analysts,2920,109110,96750
+District of Columbia,DC,13-2051,Financial and Investment Analysts,3710,115620,102890
+Florida,FL,13-2051,Financial and Investment Analysts,18070,96010,81680
+Georgia,GA,13-2051,Financial and Investment Analysts,10450,100010,83610
+Hawaii,HI,13-2051,Financial and Investment Analysts,520,84850,85180
+Idaho,ID,13-2051,Financial and Investment Analysts,840,86300,76830
+Illinois,IL,13-2051,Financial and Investment Analysts,17060,120390,101510
+Indiana,IN,13-2051,Financial and Investment Analysts,2430,86530,81310
+Iowa,IA,13-2051,Financial and Investment Analysts,2180,91130,85650
+Kansas,KS,13-2051,Financial and Investment Analysts,1790,82250,79190
+Kentucky,KY,13-2051,Financial and Investment Analysts,2340,74340,61590
+Louisiana,LA,13-2051,Financial and Investment Analysts,1700,65070,52010
+Maine,ME,13-2051,Financial and Investment Analysts,710,90080,86100
+Maryland,MD,13-2051,Financial and Investment Analysts,3810,109650,97640
+Massachusetts,MA,13-2051,Financial and Investment Analysts,16840,127760,103240
+Michigan,MI,13-2051,Financial and Investment Analysts,7520,95710,83920
+Minnesota,MN,13-2051,Financial and Investment Analysts,6620,102950,99380
+Mississippi,MS,13-2051,Financial and Investment Analysts,650,86580,76970
+Missouri,MO,13-2051,Financial and Investment Analysts,5650,86310,79030
+Montana,MT,13-2051,Financial and Investment Analysts,390,128720,91940
+Nebraska,NE,13-2051,Financial and Investment Analysts,940,91370,80080
+Nevada,NV,13-2051,Financial and Investment Analysts,1030,95200,82110
+New Hampshire,NH,13-2051,Financial and Investment Analysts,690,95870,87250
+New Jersey,NJ,13-2051,Financial and Investment Analysts,11250,128280,103680
+New Mexico,NM,13-2051,Financial and Investment Analysts,810,90340,80900
+New York,NY,13-2051,Financial and Investment Analysts,49220,143330,125110
+North Carolina,NC,13-2051,Financial and Investment Analysts,10490,104610,99990
+North Dakota,ND,13-2051,Financial and Investment Analysts,280,82130,79520
+Ohio,OH,13-2051,Financial and Investment Analysts,7820,95600,83960
+Oklahoma,OK,13-2051,Financial and Investment Analysts,1760,89500,79560
+Oregon,OR,13-2051,Financial and Investment Analysts,2390,103840,101820
+Pennsylvania,PA,13-2051,Financial and Investment Analysts,12020,94400,82810
+Rhode Island,RI,13-2051,Financial and Investment Analysts,1870,97090,80950
+South Carolina,SC,13-2051,Financial and Investment Analysts,3470,102870,87840
+South Dakota,SD,13-2051,Financial and Investment Analysts,620,86050,79860
+Tennessee,TN,13-2051,Financial and Investment Analysts,3230,95160,83490
+Texas,TX,13-2051,Financial and Investment Analysts,25100,102590,87950
+Utah,UT,13-2051,Financial and Investment Analysts,4370,99050,82050
+Vermont,VT,13-2051,Financial and Investment Analysts,270,108800,93560
+Virginia,VA,13-2051,Financial and Investment Analysts,9130,113800,103060
+Washington,WA,13-2051,Financial and Investment Analysts,7420,100860,98080
+West Virginia,WV,13-2051,Financial and Investment Analysts,320,74500,67090
+Wisconsin,WI,13-2051,Financial and Investment Analysts,4490,102090,88830
+Alabama,AL,13-2054,Financial Risk Specialists,210,100490,99160
+Alaska,AK,13-2054,Financial Risk Specialists,50,100120,108810
+Arizona,AZ,13-2054,Financial Risk Specialists,1390,87070,76830
+Arkansas,AR,13-2054,Financial Risk Specialists,150,79900,64050
+California,CA,13-2054,Financial Risk Specialists,4860,120920,109160
+Colorado,CO,13-2054,Financial Risk Specialists,900,100380,96230
+Connecticut,CT,13-2054,Financial Risk Specialists,690,128350,109600
+Delaware,DE,13-2054,Financial Risk Specialists,1610,124800,133290
+District of Columbia,DC,13-2054,Financial Risk Specialists,100,122720,110550
+Florida,FL,13-2054,Financial Risk Specialists,4170,109960,101020
+Georgia,GA,13-2054,Financial Risk Specialists,1650,109680,103570
+Hawaii,HI,13-2054,Financial Risk Specialists,90,83190,68490
+Idaho,ID,13-2054,Financial Risk Specialists,150,83000,73400
+Illinois,IL,13-2054,Financial Risk Specialists,2170,111170,100700
+Indiana,IN,13-2054,Financial Risk Specialists,370,94320,87150
+Iowa,IA,13-2054,Financial Risk Specialists,510,108980,102810
+Kansas,KS,13-2054,Financial Risk Specialists,330,77290,69550
+Kentucky,KY,13-2054,Financial Risk Specialists,540,86690,81450
+Louisiana,LA,13-2054,Financial Risk Specialists,330,66840,62000
+Maine,ME,13-2054,Financial Risk Specialists,210,101790,102740
+Maryland,MD,13-2054,Financial Risk Specialists,1090,113610,102540
+Massachusetts,MA,13-2054,Financial Risk Specialists,1400,120540,108700
+Michigan,MI,13-2054,Financial Risk Specialists,810,96030,90260
+Minnesota,MN,13-2054,Financial Risk Specialists,1130,114390,102440
+Mississippi,MS,13-2054,Financial Risk Specialists,200,85610,80860
+Missouri,MO,13-2054,Financial Risk Specialists,1060,94760,83520
+Nebraska,NE,13-2054,Financial Risk Specialists,360,84210,82950
+Nevada,NV,13-2054,Financial Risk Specialists,580,105300,85560
+New Hampshire,NH,13-2054,Financial Risk Specialists,210,94270,96760
+New Jersey,NJ,13-2054,Financial Risk Specialists,2200,127540,120750
+New Mexico,NM,13-2054,Financial Risk Specialists,160,88330,75840
+New York,NY,13-2054,Financial Risk Specialists,10990,159350,139670
+North Carolina,NC,13-2054,Financial Risk Specialists,2060,121710,109270
+North Dakota,ND,13-2054,Financial Risk Specialists,40,84090,76490
+Ohio,OH,13-2054,Financial Risk Specialists,1720,105560,100490
+Oklahoma,OK,13-2054,Financial Risk Specialists,250,85660,79710
+Oregon,OR,13-2054,Financial Risk Specialists,390,112040,116150
+Pennsylvania,PA,13-2054,Financial Risk Specialists,1270,104770,97240
+Rhode Island,RI,13-2054,Financial Risk Specialists,270,110200,107780
+South Carolina,SC,13-2054,Financial Risk Specialists,450,93940,86250
+South Dakota,SD,13-2054,Financial Risk Specialists,70,96830,94200
+Tennessee,TN,13-2054,Financial Risk Specialists,700,94530,77120
+Texas,TX,13-2054,Financial Risk Specialists,3770,101820,91370
+Utah,UT,13-2054,Financial Risk Specialists,700,98680,92220
+Vermont,VT,13-2054,Financial Risk Specialists,40,90760,99990
+Virginia,VA,13-2054,Financial Risk Specialists,1380,119370,109350
+Washington,WA,13-2054,Financial Risk Specialists,730,111170,105620
+West Virginia,WV,13-2054,Financial Risk Specialists,60,79110,67420
+Wisconsin,WI,13-2054,Financial Risk Specialists,640,98190,97690
+Wyoming,WY,13-2054,Financial Risk Specialists,50,88760,92990
+Alabama,AL,15-1211,Computer Systems Analysts,5950,108520,102560
+Alaska,AK,15-1211,Computer Systems Analysts,430,88210,86720
+Arizona,AZ,15-1211,Computer Systems Analysts,11860,100510,100280
+Arkansas,AR,15-1211,Computer Systems Analysts,2620,84330,77210
+California,CA,15-1211,Computer Systems Analysts,49930,129420,124370
+Colorado,CO,15-1211,Computer Systems Analysts,9290,118340,105980
+Connecticut,CT,15-1211,Computer Systems Analysts,6610,107670,103830
+Delaware,DE,15-1211,Computer Systems Analysts,2660,131620,113060
+District of Columbia,DC,15-1211,Computer Systems Analysts,2310,120030,103960
+Florida,FL,15-1211,Computer Systems Analysts,32760,106050,99770
+Georgia,GA,15-1211,Computer Systems Analysts,12240,105820,100120
+Hawaii,HI,15-1211,Computer Systems Analysts,1440,93230,87980
+Idaho,ID,15-1211,Computer Systems Analysts,1910,91360,80960
+Illinois,IL,15-1211,Computer Systems Analysts,20570,101970,99470
+Indiana,IN,15-1211,Computer Systems Analysts,10900,96610,92310
+Iowa,IA,15-1211,Computer Systems Analysts,4770,95380,91040
+Kansas,KS,15-1211,Computer Systems Analysts,5970,100410,102180
+Kentucky,KY,15-1211,Computer Systems Analysts,4120,83040,80980
+Louisiana,LA,15-1211,Computer Systems Analysts,2430,85530,82660
+Maine,ME,15-1211,Computer Systems Analysts,2420,89380,81810
+Maryland,MD,15-1211,Computer Systems Analysts,13800,118460,111100
+Massachusetts,MA,15-1211,Computer Systems Analysts,14070,124870,111890
+Michigan,MI,15-1211,Computer Systems Analysts,15000,101510,100100
+Minnesota,MN,15-1211,Computer Systems Analysts,12180,108940,106930
+Mississippi,MS,15-1211,Computer Systems Analysts,1610,87750,80020
+Missouri,MO,15-1211,Computer Systems Analysts,7860,97650,96660
+Montana,MT,15-1211,Computer Systems Analysts,580,82260,82020
+Nebraska,NE,15-1211,Computer Systems Analysts,3570,90330,82710
+Nevada,NV,15-1211,Computer Systems Analysts,1920,107380,100780
+New Hampshire,NH,15-1211,Computer Systems Analysts,2450,111470,105850
+New Jersey,NJ,15-1211,Computer Systems Analysts,14970,126240,123190
+New Mexico,NM,15-1211,Computer Systems Analysts,2480,95890,88440
+New York,NY,15-1211,Computer Systems Analysts,19760,116560,107510
+North Carolina,NC,15-1211,Computer Systems Analysts,26220,111580,105770
+North Dakota,ND,15-1211,Computer Systems Analysts,190,100680,93880
+Ohio,OH,15-1211,Computer Systems Analysts,16530,99260,95400
+Oklahoma,OK,15-1211,Computer Systems Analysts,3320,103460,99590
+Oregon,OR,15-1211,Computer Systems Analysts,4760,118410,112990
+Pennsylvania,PA,15-1211,Computer Systems Analysts,19630,93040,83460
+Rhode Island,RI,15-1211,Computer Systems Analysts,1590,113490,107140
+South Carolina,SC,15-1211,Computer Systems Analysts,7720,102270,92990
+South Dakota,SD,15-1211,Computer Systems Analysts,1010,99350,92290
+Tennessee,TN,15-1211,Computer Systems Analysts,8460,98630,94490
+Texas,TX,15-1211,Computer Systems Analysts,50680,115240,107200
+Utah,UT,15-1211,Computer Systems Analysts,2960,97020,90650
+Virginia,VA,15-1211,Computer Systems Analysts,23830,115820,108350
+Washington,WA,15-1211,Computer Systems Analysts,20060,132760,128710
+West Virginia,WV,15-1211,Computer Systems Analysts,1190,97420,98090
+Wisconsin,WI,15-1211,Computer Systems Analysts,8460,96220,89980
+Wyoming,WY,15-1211,Computer Systems Analysts,240,111340,106540
+Alabama,AL,15-1221,Computer and Information Research Scientists,480,105360,102250
+Arizona,AZ,15-1221,Computer and Information Research Scientists,360,147500,134910
+California,CA,15-1221,Computer and Information Research Scientists,7560,187420,175530
+Colorado,CO,15-1221,Computer and Information Research Scientists,350,132070,126840
+Connecticut,CT,15-1221,Computer and Information Research Scientists,50,126070,112580
+District of Columbia,DC,15-1221,Computer and Information Research Scientists,300,145620,145780
+Florida,FL,15-1221,Computer and Information Research Scientists,1160,131680,118190
+Georgia,GA,15-1221,Computer and Information Research Scientists,620,92530,83600
+Hawaii,HI,15-1221,Computer and Information Research Scientists,110,137720,133160
+Idaho,ID,15-1221,Computer and Information Research Scientists,**,175360,163660
+Illinois,IL,15-1221,Computer and Information Research Scientists,190,115410,116450
+Indiana,IN,15-1221,Computer and Information Research Scientists,680,88770,82360
+Iowa,IA,15-1221,Computer and Information Research Scientists,40,102710,110510
+Kansas,KS,15-1221,Computer and Information Research Scientists,60,119470,104690
+Kentucky,KY,15-1221,Computer and Information Research Scientists,210,107290,116250
+Louisiana,LA,15-1221,Computer and Information Research Scientists,110,106560,112110
+Maryland,MD,15-1221,Computer and Information Research Scientists,2310,142570,145600
+Massachusetts,MA,15-1221,Computer and Information Research Scientists,**,178820,170020
+Michigan,MI,15-1221,Computer and Information Research Scientists,270,119800,112330
+Minnesota,MN,15-1221,Computer and Information Research Scientists,50,130440,116810
+Mississippi,MS,15-1221,Computer and Information Research Scientists,290,111450,111110
+Missouri,MO,15-1221,Computer and Information Research Scientists,510,133200,108380
+Nebraska,NE,15-1221,Computer and Information Research Scientists,30,107030,101990
+Nevada,NV,15-1221,Computer and Information Research Scientists,60,124620,126840
+New Hampshire,NH,15-1221,Computer and Information Research Scientists,150,137070,131540
+New Jersey,NJ,15-1221,Computer and Information Research Scientists,1200,134260,129950
+New Mexico,NM,15-1221,Computer and Information Research Scientists,**,170070,172190
+New York,NY,15-1221,Computer and Information Research Scientists,740,158440,151470
+North Carolina,NC,15-1221,Computer and Information Research Scientists,370,122750,105180
+Ohio,OH,15-1221,Computer and Information Research Scientists,170,119540,123010
+Oklahoma,OK,15-1221,Computer and Information Research Scientists,490,95430,90600
+Oregon,OR,15-1221,Computer and Information Research Scientists,790,178790,160140
+Pennsylvania,PA,15-1221,Computer and Information Research Scientists,460,147580,118870
+Rhode Island,RI,15-1221,Computer and Information Research Scientists,460,119640,122030
+South Carolina,SC,15-1221,Computer and Information Research Scientists,470,111350,114400
+Tennessee,TN,15-1221,Computer and Information Research Scientists,70,145310,120090
+Texas,TX,15-1221,Computer and Information Research Scientists,1580,139340,129690
+Utah,UT,15-1221,Computer and Information Research Scientists,810,99050,88610
+Virginia,VA,15-1221,Computer and Information Research Scientists,2340,145860,143750
+Washington,WA,15-1221,Computer and Information Research Scientists,2940,202910,218180
+West Virginia,WV,15-1221,Computer and Information Research Scientists,50,180940,167480
+Wisconsin,WI,15-1221,Computer and Information Research Scientists,40,130800,150700
+Alabama,AL,15-1242,Database Administrators,1550,89510,85070
+Alaska,AK,15-1242,Database Administrators,90,90370,90800
+Arizona,AZ,15-1242,Database Administrators,1510,104470,107940
+Arkansas,AR,15-1242,Database Administrators,490,91160,84930
+California,CA,15-1242,Database Administrators,8070,116380,112170
+Colorado,CO,15-1242,Database Administrators,1950,116470,116420
+Connecticut,CT,15-1242,Database Administrators,870,109950,114400
+Delaware,DE,15-1242,Database Administrators,740,105350,103240
+District of Columbia,DC,15-1242,Database Administrators,520,116470,120220
+Florida,FL,15-1242,Database Administrators,4690,104590,102280
+Georgia,GA,15-1242,Database Administrators,2860,106880,104000
+Hawaii,HI,15-1242,Database Administrators,110,90300,90500
+Idaho,ID,15-1242,Database Administrators,210,83500,75590
+Illinois,IL,15-1242,Database Administrators,3370,108650,96560
+Indiana,IN,15-1242,Database Administrators,1280,76130,75980
+Iowa,IA,15-1242,Database Administrators,410,93890,90090
+Kansas,KS,15-1242,Database Administrators,1070,117660,133200
+Kentucky,KY,15-1242,Database Administrators,690,83570,78810
+Louisiana,LA,15-1242,Database Administrators,360,91760,93100
+Maine,ME,15-1242,Database Administrators,240,97060,95320
+Maryland,MD,15-1242,Database Administrators,1790,117750,113810
+Massachusetts,MA,15-1242,Database Administrators,2220,117870,121520
+Michigan,MI,15-1242,Database Administrators,1460,92980,97760
+Minnesota,MN,15-1242,Database Administrators,1140,101260,96940
+Mississippi,MS,15-1242,Database Administrators,200,82270,79580
+Missouri,MO,15-1242,Database Administrators,1640,90660,81630
+Montana,MT,15-1242,Database Administrators,270,83750,80480
+Nebraska,NE,15-1242,Database Administrators,570,87940,85140
+Nevada,NV,15-1242,Database Administrators,560,86080,81850
+New Hampshire,NH,15-1242,Database Administrators,290,103610,103580
+New Jersey,NJ,15-1242,Database Administrators,2080,122460,119450
+New Mexico,NM,15-1242,Database Administrators,580,96950,90610
+New York,NY,15-1242,Database Administrators,4390,104230,98110
+North Carolina,NC,15-1242,Database Administrators,2480,104480,104990
+North Dakota,ND,15-1242,Database Administrators,120,82660,74350
+Ohio,OH,15-1242,Database Administrators,1930,94860,94510
+Oklahoma,OK,15-1242,Database Administrators,780,85550,76720
+Oregon,OR,15-1242,Database Administrators,910,103070,98480
+Pennsylvania,PA,15-1242,Database Administrators,2820,100160,97100
+Rhode Island,RI,15-1242,Database Administrators,280,107670,110540
+South Carolina,SC,15-1242,Database Administrators,790,101420,95680
+South Dakota,SD,15-1242,Database Administrators,150,83290,84300
+Tennessee,TN,15-1242,Database Administrators,1650,104490,107600
+Texas,TX,15-1242,Database Administrators,6900,100490,102010
+Utah,UT,15-1242,Database Administrators,650,97700,92680
+Vermont,VT,15-1242,Database Administrators,120,99430,100120
+Virginia,VA,15-1242,Database Administrators,4780,109790,102630
+Washington,WA,15-1242,Database Administrators,2050,116710,109490
+West Virginia,WV,15-1242,Database Administrators,230,74570,64830
+Wisconsin,WI,15-1242,Database Administrators,1110,95840,91520
+Wyoming,WY,15-1242,Database Administrators,120,82620,79430
+Alabama,AL,15-1243,Database Architects,310,114400,114000
+Alaska,AK,15-1243,Database Architects,50,125650,119440
+Arizona,AZ,15-1243,Database Architects,1040,121080,122620
+Arkansas,AR,15-1243,Database Architects,290,96180,98280
+California,CA,15-1243,Database Architects,6120,162660,162250
+Colorado,CO,15-1243,Database Architects,2180,141890,134780
+Connecticut,CT,15-1243,Database Architects,650,140610,143540
+Delaware,DE,15-1243,Database Architects,70,153570,148320
+District of Columbia,DC,15-1243,Database Architects,560,162980,164720
+Florida,FL,15-1243,Database Architects,1860,122790,123960
+Georgia,GA,15-1243,Database Architects,2790,147250,155210
+Hawaii,HI,15-1243,Database Architects,50,137690,133040
+Idaho,ID,15-1243,Database Architects,290,133130,133590
+Illinois,IL,15-1243,Database Architects,1500,124240,128990
+Indiana,IN,15-1243,Database Architects,700,93180,84020
+Iowa,IA,15-1243,Database Architects,400,130660,132330
+Kansas,KS,15-1243,Database Architects,440,161820,154090
+Kentucky,KY,15-1243,Database Architects,690,99270,88930
+Louisiana,LA,15-1243,Database Architects,110,103870,103600
+Maine,ME,15-1243,Database Architects,100,118990,120790
+Maryland,MD,15-1243,Database Architects,710,150590,139510
+Massachusetts,MA,15-1243,Database Architects,1650,152850,152030
+Michigan,MI,15-1243,Database Architects,1290,114390,122700
+Minnesota,MN,15-1243,Database Architects,790,128380,130350
+Mississippi,MS,15-1243,Database Architects,**,79750,71950
+Missouri,MO,15-1243,Database Architects,1930,106560,102810
+Montana,MT,15-1243,Database Architects,50,117220,112580
+Nebraska,NE,15-1243,Database Architects,700,130230,129110
+Nevada,NV,15-1243,Database Architects,300,130500,125180
+New Hampshire,NH,15-1243,Database Architects,250,123150,124430
+New Jersey,NJ,15-1243,Database Architects,1290,158930,162410
+New Mexico,NM,15-1243,Database Architects,180,118590,126000
+New York,NY,15-1243,Database Architects,3780,144140,142230
+North Carolina,NC,15-1243,Database Architects,3330,122460,125860
+North Dakota,ND,15-1243,Database Architects,60,106250,103730
+Ohio,OH,15-1243,Database Architects,1880,121620,127230
+Oklahoma,OK,15-1243,Database Architects,420,119940,111070
+Oregon,OR,15-1243,Database Architects,540,132460,134980
+Pennsylvania,PA,15-1243,Database Architects,2290,121960,125790
+Rhode Island,RI,15-1243,Database Architects,100,118510,116980
+South Carolina,SC,15-1243,Database Architects,850,126340,130020
+South Dakota,SD,15-1243,Database Architects,50,116210,113410
+Tennessee,TN,15-1243,Database Architects,560,119530,120000
+Texas,TX,15-1243,Database Architects,5900,139570,138090
+Utah,UT,15-1243,Database Architects,2090,145400,149200
+Vermont,VT,15-1243,Database Architects,70,152540,129950
+Virginia,VA,15-1243,Database Architects,4680,143300,138300
+Washington,WA,15-1243,Database Architects,3080,154430,144910
+West Virginia,WV,15-1243,Database Architects,90,103550,72260
+Wisconsin,WI,15-1243,Database Architects,410,130180,134020
+Wyoming,WY,15-1243,Database Architects,120,61130,57610
+Alabama,AL,15-2031,Operations Research Analysts,570,112400,107470
+Alaska,AK,15-2031,Operations Research Analysts,90,97410,102450
+Arizona,AZ,15-2031,Operations Research Analysts,2600,79700,76010
+Arkansas,AR,15-2031,Operations Research Analysts,140,75020,67720
+California,CA,15-2031,Operations Research Analysts,20100,92150,82870
+Colorado,CO,15-2031,Operations Research Analysts,960,101130,99470
+Connecticut,CT,15-2031,Operations Research Analysts,1020,95490,95310
+Delaware,DE,15-2031,Operations Research Analysts,670,107770,104220
+District of Columbia,DC,15-2031,Operations Research Analysts,2230,116320,109990
+Florida,FL,15-2031,Operations Research Analysts,7750,86260,78830
+Georgia,GA,15-2031,Operations Research Analysts,4600,82810,78320
+Hawaii,HI,15-2031,Operations Research Analysts,230,101520,102080
+Idaho,ID,15-2031,Operations Research Analysts,430,84620,69830
+Illinois,IL,15-2031,Operations Research Analysts,5320,106300,101880
+Indiana,IN,15-2031,Operations Research Analysts,1660,88120,82600
+Iowa,IA,15-2031,Operations Research Analysts,190,82640,82020
+Kansas,KS,15-2031,Operations Research Analysts,620,95020,99990
+Kentucky,KY,15-2031,Operations Research Analysts,1090,81970,78000
+Louisiana,LA,15-2031,Operations Research Analysts,460,73900,67480
+Maine,ME,15-2031,Operations Research Analysts,360,97810,93700
+Maryland,MD,15-2031,Operations Research Analysts,3730,112450,111080
+Massachusetts,MA,15-2031,Operations Research Analysts,3820,96930,90160
+Michigan,MI,15-2031,Operations Research Analysts,1280,100240,91610
+Minnesota,MN,15-2031,Operations Research Analysts,1470,102740,99010
+Mississippi,MS,15-2031,Operations Research Analysts,160,84570,83770
+Missouri,MO,15-2031,Operations Research Analysts,3070,63640,53600
+Montana,MT,15-2031,Operations Research Analysts,150,77970,70230
+Nebraska,NE,15-2031,Operations Research Analysts,280,90540,85000
+Nevada,NV,15-2031,Operations Research Analysts,310,86390,79410
+New Hampshire,NH,15-2031,Operations Research Analysts,340,91500,85100
+New Jersey,NJ,15-2031,Operations Research Analysts,3890,108990,102140
+New Mexico,NM,15-2031,Operations Research Analysts,480,84690,69760
+New York,NY,15-2031,Operations Research Analysts,5980,111860,99480
+North Carolina,NC,15-2031,Operations Research Analysts,2270,99020,101190
+North Dakota,ND,15-2031,Operations Research Analysts,160,87970,82760
+Ohio,OH,15-2031,Operations Research Analysts,3440,93250,88930
+Oklahoma,OK,15-2031,Operations Research Analysts,1520,63760,62380
+Oregon,OR,15-2031,Operations Research Analysts,1850,99080,97060
+Pennsylvania,PA,15-2031,Operations Research Analysts,2420,82110,71440
+Rhode Island,RI,15-2031,Operations Research Analysts,220,77740,59390
+South Carolina,SC,15-2031,Operations Research Analysts,960,86460,80270
+Tennessee,TN,15-2031,Operations Research Analysts,1500,79310,70720
+Texas,TX,15-2031,Operations Research Analysts,11690,96300,86510
+Utah,UT,15-2031,Operations Research Analysts,1200,81620,80180
+Vermont,VT,15-2031,Operations Research Analysts,110,88690,81970
+Virginia,VA,15-2031,Operations Research Analysts,7720,121120,117350
+Washington,WA,15-2031,Operations Research Analysts,2950,102840,93740
+West Virginia,WV,15-2031,Operations Research Analysts,230,70770,61860
+Wisconsin,WI,15-2031,Operations Research Analysts,3570,81750,78320
+Alabama,AL,15-2041,Statisticians,210,77300,71160
+Alaska,AK,15-2041,Statisticians,50,101730,94930
+Arizona,AZ,15-2041,Statisticians,450,94080,82550
+California,CA,15-2041,Statisticians,2800,129290,125860
+Colorado,CO,15-2041,Statisticians,1140,101090,96160
+Connecticut,CT,15-2041,Statisticians,310,122420,109700
+Delaware,DE,15-2041,Statisticians,120,121550,106000
+District of Columbia,DC,15-2041,Statisticians,670,127280,128640
+Florida,FL,15-2041,Statisticians,510,87310,82060
+Georgia,GA,15-2041,Statisticians,490,114330,107480
+Hawaii,HI,15-2041,Statisticians,100,72700,68540
+Idaho,ID,15-2041,Statisticians,40,95510,91440
+Illinois,IL,15-2041,Statisticians,460,117170,114180
+Indiana,IN,15-2041,Statisticians,230,105440,102150
+Iowa,IA,15-2041,Statisticians,280,87610,83890
+Kansas,KS,15-2041,Statisticians,90,103530,99820
+Kentucky,KY,15-2041,Statisticians,100,100220,95940
+Louisiana,LA,15-2041,Statisticians,80,75890,69100
+Maine,ME,15-2041,Statisticians,30,89610,81060
+Maryland,MD,15-2041,Statisticians,3020,127170,123200
+Massachusetts,MA,15-2041,Statisticians,2130,105360,84820
+Michigan,MI,15-2041,Statisticians,640,108720,106390
+Minnesota,MN,15-2041,Statisticians,600,95980,88750
+Mississippi,MS,15-2041,Statisticians,70,60860,52390
+Missouri,MO,15-2041,Statisticians,530,74870,59620
+Montana,MT,15-2041,Statisticians,40,83670,81550
+Nebraska,NE,15-2041,Statisticians,150,85010,82300
+Nevada,NV,15-2041,Statisticians,70,75600,65880
+New Hampshire,NH,15-2041,Statisticians,50,108580,107320
+New Jersey,NJ,15-2041,Statisticians,430,122370,119250
+New Mexico,NM,15-2041,Statisticians,240,65210,50620
+New York,NY,15-2041,Statisticians,1110,140860,118950
+North Carolina,NC,15-2041,Statisticians,1790,119280,109950
+North Dakota,ND,15-2041,Statisticians,50,75670,73030
+Ohio,OH,15-2041,Statisticians,350,88410,88170
+Oklahoma,OK,15-2041,Statisticians,**,84000,78270
+Oregon,OR,15-2041,Statisticians,600,87650,87920
+Pennsylvania,PA,15-2041,Statisticians,2350,96810,83560
+Rhode Island,RI,15-2041,Statisticians,40,91120,88970
+South Carolina,SC,15-2041,Statisticians,230,77230,71760
+Tennessee,TN,15-2041,Statisticians,920,89630,80850
+Texas,TX,15-2041,Statisticians,1220,103330,95600
+Utah,UT,15-2041,Statisticians,300,88450,85810
+Vermont,VT,15-2041,Statisticians,120,74360,69830
+Virginia,VA,15-2041,Statisticians,1090,109980,104060
+Washington,WA,15-2041,Statisticians,2820,116630,112520
+West Virginia,WV,15-2041,Statisticians,80,77080,69360
+Wisconsin,WI,15-2041,Statisticians,230,92070,80470
+Wyoming,WY,15-2041,Statisticians,40,107080,82780
+Alabama,AL,15-2051,Data Scientists,1120,99040,100560
+Alaska,AK,15-2051,Data Scientists,200,91710,80000
+Arizona,AZ,15-2051,Data Scientists,3800,112470,106400
+Arkansas,AR,15-2051,Data Scientists,330,117250,115890
+California,CA,15-2051,Data Scientists,33220,140490,133690
+Colorado,CO,15-2051,Data Scientists,5910,120320,111970
+Connecticut,CT,15-2051,Data Scientists,1190,120480,112750
+Delaware,DE,15-2051,Data Scientists,530,130520,138780
+District of Columbia,DC,15-2051,Data Scientists,3100,128810,122010
+Florida,FL,15-2051,Data Scientists,8400,106490,95360
+Georgia,GA,15-2051,Data Scientists,6510,108010,100950
+Hawaii,HI,15-2051,Data Scientists,150,126080,129930
+Idaho,ID,15-2051,Data Scientists,710,126190,122280
+Illinois,IL,15-2051,Data Scientists,6320,115840,108580
+Indiana,IN,15-2051,Data Scientists,2440,92520,81620
+Iowa,IA,15-2051,Data Scientists,2270,98550,96980
+Kansas,KS,15-2051,Data Scientists,**,107000,101610
+Kentucky,KY,15-2051,Data Scientists,2080,96290,88800
+Louisiana,LA,15-2051,Data Scientists,920,74330,68730
+Maine,ME,15-2051,Data Scientists,710,107370,99960
+Maryland,MD,15-2051,Data Scientists,2170,126020,125460
+Massachusetts,MA,15-2051,Data Scientists,7400,125100,121560
+Michigan,MI,15-2051,Data Scientists,4700,96500,90750
+Minnesota,MN,15-2051,Data Scientists,2240,118760,114630
+Mississippi,MS,15-2051,Data Scientists,290,72220,62600
+Missouri,MO,15-2051,Data Scientists,3850,88210,81410
+Montana,MT,15-2051,Data Scientists,90,101350,94420
+Nebraska,NE,15-2051,Data Scientists,1780,94960,92640
+Nevada,NV,15-2051,Data Scientists,980,96800,86030
+New Hampshire,NH,15-2051,Data Scientists,780,97330,92670
+New Jersey,NJ,15-2051,Data Scientists,4340,134140,130570
+New Mexico,NM,15-2051,Data Scientists,380,88720,87020
+New York,NY,15-2051,Data Scientists,16390,134830,128890
+North Carolina,NC,15-2051,Data Scientists,6640,125950,126940
+North Dakota,ND,15-2051,Data Scientists,240,102410,113620
+Ohio,OH,15-2051,Data Scientists,4660,97530,97070
+Oklahoma,OK,15-2051,Data Scientists,2130,93020,83810
+Oregon,OR,15-2051,Data Scientists,2640,124480,114910
+Pennsylvania,PA,15-2051,Data Scientists,7490,102370,97260
+Rhode Island,RI,15-2051,Data Scientists,900,127380,128350
+South Carolina,SC,15-2051,Data Scientists,2090,100790,95310
+South Dakota,SD,15-2051,Data Scientists,150,97940,91460
+Tennessee,TN,15-2051,Data Scientists,2090,97710,92400
+Texas,TX,15-2051,Data Scientists,20560,109000,100100
+Utah,UT,15-2051,Data Scientists,3530,101780,97490
+Vermont,VT,15-2051,Data Scientists,220,124430,117500
+Virginia,VA,15-2051,Data Scientists,4810,139080,136490
+Washington,WA,15-2051,Data Scientists,5640,148730,132620
+West Virginia,WV,15-2051,Data Scientists,180,94330,67660
+Wisconsin,WI,15-2051,Data Scientists,3090,105250,101850
+Wyoming,WY,15-2051,Data Scientists,**,125330,130370
+Alabama,AL,15-2099,"Mathematical Science Occupations, All Other",30,46540,37820
+Alaska,AK,15-2099,"Mathematical Science Occupations, All Other",90,74760,72180
+California,CA,15-2099,"Mathematical Science Occupations, All Other",440,138840,155150
+District of Columbia,DC,15-2099,"Mathematical Science Occupations, All Other",220,93480,98880
+Georgia,GA,15-2099,"Mathematical Science Occupations, All Other",180,75000,65170
+Illinois,IL,15-2099,"Mathematical Science Occupations, All Other",1520,81750,75620
+Kentucky,KY,15-2099,"Mathematical Science Occupations, All Other",70,50610,46180
+Maryland,MD,15-2099,"Mathematical Science Occupations, All Other",110,80360,43490
+Massachusetts,MA,15-2099,"Mathematical Science Occupations, All Other",40,73590,77730
+Mississippi,MS,15-2099,"Mathematical Science Occupations, All Other",40,49100,40340
+New Jersey,NJ,15-2099,"Mathematical Science Occupations, All Other",**,63080,57230
+New York,NY,15-2099,"Mathematical Science Occupations, All Other",100,86210,71830
+North Carolina,NC,15-2099,"Mathematical Science Occupations, All Other",90,124800,139400
+Ohio,OH,15-2099,"Mathematical Science Occupations, All Other",30,*,*
+Pennsylvania,PA,15-2099,"Mathematical Science Occupations, All Other",50,*,*
+South Carolina,SC,15-2099,"Mathematical Science Occupations, All Other",**,55650,45040
+Tennessee,TN,15-2099,"Mathematical Science Occupations, All Other",**,64990,61490
+Texas,TX,15-2099,"Mathematical Science Occupations, All Other",50,57100,38960
+Virginia,VA,15-2099,"Mathematical Science Occupations, All Other",240,69920,49800
+Washington,WA,15-2099,"Mathematical Science Occupations, All Other",370,70760,66830
